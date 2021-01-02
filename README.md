@@ -2,7 +2,7 @@
 ## Performing analysis on Kick starter data to uncover trends 
 1. **Overview of the Project**
 
-    - The purpose of this analysis is to provide Louise with information at glance regarding the most popular and successful type of compaign,**Theater**. 
+The purpose of this analysis is to provide Louise with information at glance regarding the most popular and successful type of compaign,**Theater**. 
     
      **Purpose**
      
