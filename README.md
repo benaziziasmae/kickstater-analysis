@@ -35,7 +35,7 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
   III. **Results**
  
-   - Two Conclusions about the Theater Outcomes based on Launched Date: 
+   1. Two Conclusions about the Theater Outcomes based on Launched Date: 
    
    The month that launched the most successful compaign was May and June.
  However the months of January, March and September all had roughly the same number of failed compaign launched.
