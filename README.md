@@ -16,6 +16,12 @@ Data Source. [here](/kicktarter_Challenge.zip).
      **Theater_Outcomes_vs_Launch**
      
      ![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png).
+   
+   This chart helps to visualize Kickstarter compaign based on the Launched Date,
+   To aknowledge the failure and success of each kisktarter compaign especially **theater**,
+   Also to determine the month that launched the most successful kickstarter compaign.
+   
+   Then, we went a little deeper into data analysis and we choose Louise's prefered theatrical production **Plays** to see the needed money Range for this project to successed.
 
    - Challenges encountoured during this analysis: In the pivot table of "Theater outcomes launched by Date", we can notice that no data was reported regarding the canceled theater project, which could cause Louise a loss of money, that she can avoid by investigating a little deeper in order to use that money for another project.
    
