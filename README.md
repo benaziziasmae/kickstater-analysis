@@ -1,5 +1,5 @@
 # kickstater-analysis
-## Performing analysis on Kick starter data to uncover trends
+## Performing analysis on Kick starter data to uncover trends 
 1. **The purpose of this analysis**
 
     - The purpose of this analysis is to provide Louise with information at glance regarding the most popular and successful type of compaign,**Theater**. 
