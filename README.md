@@ -4,7 +4,7 @@ I. **Overview of the Project**
 
 The purpose of this analysis is to provide Louise with information at glance regarding the most popular and successful type of compaign,**Theater**. 
     
-     **Purpose** 
+    **Purpose** 
      
 So in order to help Louise with her fundraising Goal, and to fully have a better understanding on how the compaign fared in relation to the launched dates an funding Goal, we started by giving a visual charts that will help Louise have a representations of various compaign statistics regarding relevant categories to Louise's Project.
 
