@@ -25,7 +25,7 @@ II. **Analysis and Challenges**
      
    ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png).
      
-   This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from 0$ to greater than 50000$.
+      This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from 0$ to greater than 50000$.
      In order to give a sense of scale, we divided the summation of all the counts based on goal range to calculate the percentage of successful, failed and canceled kicktarter compaign.
      
    3. Challenges
