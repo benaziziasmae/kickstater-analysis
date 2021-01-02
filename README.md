@@ -28,9 +28,10 @@ Data Source. [here](/kicktarter_Challenge.zip).
      This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from 0$ to greater than 50000$.
      In order to give a sense of scale, we divided the summation of all the counts based on goal range to calculate the percentage of successful, failed and canceled kicktarter compaign.
      
-     - Challenges
+   - Challenges
 
-   - Challenges encountoured during this analysis: In the pivot table of "Theater outcomes launched by Date", we can notice that no data was reported regarding the canceled theater project, which could cause Louise a loss of money, that she can avoid by investigating a little deeper in order to use that money for another project.
+There were no challenges encountoured to provide the above visualizations. The potential challenge that occure is a missed/mis-typed data that could conduct to an error once trying to generate a chart. (Yet, we can notice for the first Deliverable that no data was reported regarding the canceled theater project for the month of October, but it didn't impact our chart).
+Also, for the second Deliverable, inputting the COUNTIFS formula to each cell was time consuming that we can just avoid by using the CONCATENATE formula (shortcut &) to each range of fundraising.
    
 3. **Results**
  
