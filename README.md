@@ -10,8 +10,12 @@ So in order to help Louise with her fundraising Goal, and to fully have a better
 
 Data Source. [here](/kicktarter_Challenge.zip).
 
-
 2. **Analysis and Challenges**
+
+  - Deliverable 1:
+     **Theater_Outcomes_vs_Launch**
+     
+     ![Theater_Outcomes_vs_Launch](path/to/image_name.png).
 
    - Challenges encountoured during this analysis: In the pivot table of "Theater outcomes launched by Date", we can notice that no data was reported regarding the canceled theater project, which could cause Louise a loss of money, that she can avoid by investigating a little deeper in order to use that money for another project.
    
