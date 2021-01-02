@@ -17,7 +17,7 @@ Data Source. [here](/kicktarter_Challenge.zip).
      
      ![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png).
    
-   This chart helps to visualize Kickstarter compaign based on the Launched Date, to aknowledge the failure and success of each kisktarter compaign especially **theater**,
+      This chart helps to visualize Kickstarter compaign based on the Launched Date, to aknowledge the failure and success of each kisktarter compaign especially **theater**,
    Also to determine the month that launched the most successful kickstarter compaign.
    
    - Deliverable 2:
