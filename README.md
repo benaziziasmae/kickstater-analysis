@@ -6,7 +6,10 @@ The purpose of this analysis is to provide Louise with information at glance reg
     
   1. **Purpose** 
      
-First by giving a visual chart that will help Louise determine the suitable period to build a theater. Then, we went a little deeper into data analysis and we choose Louise's prefered theatrical production **Plays** to see the needed money Range for this project to successed.
+So in order to help Louise with her fundraising Goal, and to fully have a better understanding on how the compaign fared in relation to the launched dates an funding Goal, we started by giving a visual charts that will help Louise have a representations of various compaign statistics regarding relevant categories to Louise's Project.
+Data Source. [here](/Kickstarter_Challenge.7)
+
+
 2. **Analysis and Challenges**
 
    - Challenges encountoured during this analysis: In the pivot table of "Theater outcomes launched by Date", we can notice that no data was reported regarding the canceled theater project, which could cause Louise a loss of money, that she can avoid by investigating a little deeper in order to use that money for another project.
