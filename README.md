@@ -13,13 +13,18 @@ Data Source. [here](/kicktarter_Challenge.zip).
 2. **Analysis and Challenges**
 
   - Deliverable 1:
-     **Theater_Outcomes_vs_Launch**
+     **Theater_Outcomes_vs_Launch_Date**
      
      ![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png).
    
-   This chart helps to visualize Kickstarter compaign based on the Launched Date,
-   To aknowledge the failure and success of each kisktarter compaign especially **theater**,
+   This chart helps to visualize Kickstarter compaign based on the Launched Date, to aknowledge the failure and success of each kisktarter compaign especially **theater**,
    Also to determine the month that launched the most successful kickstarter compaign.
+   
+   - Deliverable 2:
+     **Outcomes_Based_on_Goals**
+     
+     ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png).
+     
    
    Then, we went a little deeper into data analysis and we choose Louise's prefered theatrical production **Plays** to see the needed money Range for this project to successed.
 
