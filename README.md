@@ -35,7 +35,9 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
   III. **Results**
  
-   - Two Conclusions about the Theater Outcomes based on Launched Date: The month that launched the most successful compaign was May and June.
+   - Two Conclusions about the Theater Outcomes based on Launched Date: 
+   
+   The month that launched the most successful compaign was May and June.
  However the months of January, March and September all had roughly the same number of failed compaign launched.
    - Conclusion about the Outcomes based on Goals: the needed money range to have a successful compaign is between $1000 and $4999.
    - Limitations of data set 
