@@ -44,4 +44,6 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    From the chart above, we can conclude that the chance of having a successful compaign goes simultaneously with a lower range of fundraising amount.
    The other conclusion that can be drawn from the data is that for the range between 15000$ and 19999$ we had a percentage of 50% for both failed and successful compaign, and for the range of 45000$ to 49999$ we had a percentage of 0% for successful compaign and 100% for failed compaign wich does not give a clear idea about the relationship between a successfulanf failed compaign.
    
-   3. Limitations of data set  and recommendation for additional tables or graphs 
+   3. Recommendation for additional tables or graphs 
+   Based on the analysis that we did previously with the Theater Outcomes based on Launch_Date, we can go a further deeper in our analysis by doing an additional filter on the pivot table by choosing **plays** as *Subcategory*, in order to provide another revelation that May and June both have a highest susccess for launching a kickstarter.
+
