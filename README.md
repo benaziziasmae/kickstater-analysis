@@ -7,6 +7,7 @@ The purpose of this analysis is to provide Louise with information at glance reg
   1. **Purpose** 
      
 So in order to help Louise with her fundraising Goal, and to fully have a better understanding on how the compaign fared in relation to the launched dates an funding Goal, we started by giving a visual charts that will help Louise have a representations of various compaign statistics regarding relevant categories to Louise's Project.
+
 Data Source. [here](/Kickstarter_Challenge.zip).
 
 
