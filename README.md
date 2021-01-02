@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to provide Louise with information at glance regarding the most popular and successful type of compaign,**Theater**. 
     
-     **Purpose**
+   **Purpose** 
      
 First by giving a visual chart that will help Louise determine the suitable period to build a theater. Then, we went a little deeper into data analysis and we choose Louise's prefered theatrical production **Plays** to see the needed money Range for this project to successed.
 2. **Analysis and Challenges**
