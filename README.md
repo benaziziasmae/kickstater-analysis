@@ -50,6 +50,6 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
    Based on the analysis that we did previously with the Theater Outcomes based on Launch_Date, we can go a further deeper in our analysis by doing an additional filter on the pivot table by choosing **plays** as *Subcategory*, in order to provide another revelation that May and June both have a highest susccess for launching a kickstarter as provided below.
    
- ![Theater _Plays_Outcomes_vs_Launch Date](/Resources/Theater _Plays_Outcomes_vs_Launch Date.png).
+ ![Theater_Plays_Outcomes_vs_Launch_Date.png](/Resources/Theater_Plays_Outcomes_vs_Launch_Date.png).
  
  
