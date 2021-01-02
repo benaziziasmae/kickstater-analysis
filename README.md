@@ -7,7 +7,9 @@ First by giving a visual chart that will help Louise determine the suitable peri
 2. **Analysis and Challenges**
 
    - Challenges encountoured during this analysis: In the pivot table of "Theater outcomes launched by Date", we can notice that no data was reported regarding the canceled theater project, which could cause Louise a loss of money, that she can avoid by investigating a little deeper in order to use that money for another project.
- 3. Two Conclusions about the Theater Outcomes based on Launched Date: The month that launched the most successful compaign was May and June.
+ 3.**Results**
+ 
+   - Two Conclusions about the Theater Outcomes based on Launched Date: The month that launched the most successful compaign was May and June.
  However the months of January, March and September all had roughly the same number of failed compaign launched.
    - Conclusion about the Outcomes based on Goals: the needed money range to have a successful compaign is between $1000 and $4999.
    - Limitations of data set 
