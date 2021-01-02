@@ -52,3 +52,4 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
  ![Theater _Plays_Outcomes_vs_Launch Date](/Resources/Theater _Plays_Outcomes_vs_Launch Date.png).
  
+ 
