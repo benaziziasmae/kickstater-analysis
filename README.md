@@ -30,7 +30,7 @@ Data Source. [here](/kicktarter_Challenge.zip).
      
    - Challenges
 
-   There were no challenges encountoured to provide the above visualizations. The potential challenge that occure is a missed/mis-typed data that could conduct to an error once trying to generate a chart. (Yet, we can notice for the first Deliverable that no data was reported regarding the canceled theater project for the month of October, but it didn't impact our chart).
+     There were no challenges encountoured to provide the above visualizations. The potential challenge that occure is a missed/mis-typed data that could conduct to an error once trying to generate a chart. (Yet, we can notice for the first Deliverable that no data was reported regarding the canceled theater project for the month of October, but it didn't impact our chart).
 Also, for the second Deliverable, inputting the COUNTIFS formula to each cell was time consuming that we can just avoid by using the CONCATENATE formula (shortcut &) to each range of fundraising.
    
 3. **Results**
