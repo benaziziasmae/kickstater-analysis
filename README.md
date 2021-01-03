@@ -19,7 +19,7 @@ II. **Analysis and Challenges**
    
       This chart helps to visualize Kickstarter compaign based on the Launched Date, to aknowledge the failure and success of each kisktarter compaign especially **theater** by using the Pivot Table on the "kickstarter" worksheet and applying the following fields to the pivot report areas respectively:
       
-      - *Parent Category* and *Years* ( a created field usinf the YEAR() function with the argument of Date created Conversion field) in the filter sectio
+      - *Parent Category* and *Years* ( a created field usinf the YEAR() function with the argument of Date created Conversion field) in the filter section
       
       - *Outcomes* in the columns section
       
@@ -27,10 +27,9 @@ II. **Analysis and Challenges**
       
       - *Date Created Conversion* in the rows section
       
-  Then we the pivot table was filtered by category choosing *Thearter*
+  Then, the pivot table was filtered by category choosing *Thearter* 
   
- 
-  it determines the month that launched the most successful kickstarter compaign.
+ This chart determines the month that launched the most successful kickstarter compaign.
    
    2. Deliverable 2:
      **Outcomes_Based_on_Goals**
@@ -57,13 +56,16 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
    From the chart above, we can conclude that the chance of having a successful compaign goes simultaneously with a lower range of fundraising amount.
    The other conclusion that can be drawn from the data is that for the range between 15000$ and 19999$ we had a percentage of 50% for both failed and successful compaign, and for the range of 45000$ to 49999$ we had a percentage of 0% for successful compaign and 100% for failed compaign which means that the successful and failed compaign have a complementary relation .
+   Also, there were no canceled compaign.
    
    3. Limitation of the data set
-   from the data set provided, we can notice that few data are not enough/was not reported for certain categories that could not help us have a better understanding for the fundraising compaign,
    
-   Also the 
+   From the data set provided, we can notice that few data are not enough/was not reported for certain categories that could not help us have a better understanding for the fundraising compaign. For instance the range from 35000$ to 49999$ there were less than 10 compaign counted in each section of successful and failed compaign.
    
-   3. Recommendation for additional tables or graphs 
+   Also, the data set is limited in that a majority of records are for American Projects and for US dollars. So according the to Outcomes based on Goals analysis previously done, it's possible that the data is skewed as a result of a currency conversion from US dollard to other currency used in the data set. For instance, a goal of 4800 EU would be categorized in the range between from 1000$ to 4999$ but after real conversion for US dollar it should normally be categorized int the range between 5000$ to 9999$.
+
+   
+   4. Recommendation for additional tables or graphs 
    
    Based on the analysis that we did previously with the Theater Outcomes based on Launch_Date, we can go further in our analysis by doing an additional filter on the pivot table by choosing **plays** as *Subcategory*, in order to provide another revelation that the month of May have a highest susccess for launching a kickstarter as provided below.
    
