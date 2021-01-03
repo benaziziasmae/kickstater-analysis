@@ -25,7 +25,7 @@ II. **Analysis and Challenges**
      
    ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png).
      
-   This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from less than 1000$ to greater than 50000$.
+   This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from less than 1000$ to greater than 50000$ by using the fomula COUNTIFS.
      In order to give a sense of scale, we divided the summation of all the counts based on goal range to calculate the percentage of successful, failed and canceled kicktarter compaign.
      
    3. Challenges
@@ -45,6 +45,9 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
    From the chart above, we can conclude that the chance of having a successful compaign goes simultaneously with a lower range of fundraising amount.
    The other conclusion that can be drawn from the data is that for the range between 15000$ and 19999$ we had a percentage of 50% for both failed and successful compaign, and for the range of 45000$ to 49999$ we had a percentage of 0% for successful compaign and 100% for failed compaign which means that the successful and failed compaign have a complementary relation .
+   
+   3. Limitation of the data set
+   We can notice fthat few data are not enough for certain categories 
    
    3. Recommendation for additional tables or graphs 
    
