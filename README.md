@@ -19,7 +19,7 @@ II. **Analysis and Challenges**
    
       This chart helps to visualize Kickstarter compaign based on the Launched Date, to aknowledge the failure and success of each kisktarter compaign especially **theater** by using the Pivot Table on the "kickstarter" worksheet and applying the following fields to the pivot report areas respectively:
       
-      - *Parent Category* and *Years* ( a created field usinf the YEAR() function with the argument of Date created Conversion field) in the filter section
+      - *Parent Category* and *Years* ( a created field using the YEAR() function with the argument of Date created Conversion field) in the filter section
       
       - *Outcomes* in the columns section
       
@@ -36,7 +36,7 @@ II. **Analysis and Challenges**
      
    ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png).
      
-   This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from less than 1000$ to greater than 50000$ by using the fomula COUNTIFS.
+   This chart helps to visualize the count number of successful, failed and canceled kickstarter compaign with the respect of the Subcategory "plays", as well as the range of fundraising amount classified by range of fundrainsing amount goal starting from less than 1000$ to greater than 50000$ by using the fomula COUNTIFS.
      In order to give a sense of scale, we divided the summation of all the counts based on goal range to calculate the percentage of successful, failed and canceled kicktarter compaign.
      
    3. Challenges
@@ -60,7 +60,7 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
    3. Limitation of the data set
    
-   - From the data set provided, we can notice that few data are not enough/was not reported for certain categories that could not help us have a better understanding for the fundraising compaign. For instance the range from 35000$ to 49999$ there were less than 10 compaign counted in each section of successful and failed compaign.
+   - From the data set provided, we can notice that few data are not enough/was not reported for certain categories that could not help us have an accurate analysis for the fundraising compaign. For instance the range from 35000$ to 49999$ there were less than 10 compaign counted in each section of successful and failed compaign.
    
    - Also, the data set is limited in that a majority of records are for American Projects and for US dollars. So according the to Outcomes based on Goals analysis previously done, it's possible that the data is skewed as a result of a currency conversion from US dollard to other currency used in the data set. For instance, a goal of 4800 EU would be categorized in the range between from 1000$ to 4999$ but after real conversion to US dollar it should normally be categorized int the range between 5000$ to 9999$.
 
