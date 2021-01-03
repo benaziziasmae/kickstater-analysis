@@ -60,9 +60,9 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    
    3. Limitation of the data set
    
-   From the data set provided, we can notice that few data are not enough/was not reported for certain categories that could not help us have a better understanding for the fundraising compaign. For instance the range from 35000$ to 49999$ there were less than 10 compaign counted in each section of successful and failed compaign.
+   - From the data set provided, we can notice that few data are not enough/was not reported for certain categories that could not help us have a better understanding for the fundraising compaign. For instance the range from 35000$ to 49999$ there were less than 10 compaign counted in each section of successful and failed compaign.
    
-   Also, the data set is limited in that a majority of records are for American Projects and for US dollars. So according the to Outcomes based on Goals analysis previously done, it's possible that the data is skewed as a result of a currency conversion from US dollard to other currency used in the data set. For instance, a goal of 4800 EU would be categorized in the range between from 1000$ to 4999$ but after real conversion for US dollar it should normally be categorized int the range between 5000$ to 9999$.
+   - Also, the data set is limited in that a majority of records are for American Projects and for US dollars. So according the to Outcomes based on Goals analysis previously done, it's possible that the data is skewed as a result of a currency conversion from US dollard to other currency used in the data set. For instance, a goal of 4800 EU would be categorized in the range between from 1000$ to 4999$ but after real conversion for US dollar it should normally be categorized int the range between 5000$ to 9999$.
 
    
    4. Recommendation for additional tables or graphs 
