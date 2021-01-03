@@ -44,7 +44,7 @@ Also, for the second Deliverable, inputting the COUNTIFS formula to each cell wa
    2. Conclusion about the Outcomes based on Goals:
    
    From the chart above, we can conclude that the chance of having a successful compaign goes simultaneously with a lower range of fundraising amount.
-   The other conclusion that can be drawn from the data is that for the range between 15000$ and 19999$ we had a percentage of 50% for both failed and successful compaign, and for the range of 45000$ to 49999$ we had a percentage of 0% for successful compaign and 100% for failed compaign wich does not give a clear idea about the relationship between a successfulanf failed compaign.
+   The other conclusion that can be drawn from the data is that for the range between 15000$ and 19999$ we had a percentage of 50% for both failed and successful compaign, and for the range of 45000$ to 49999$ we had a percentage of 0% for successful compaign and 100% for failed compaign which means that the successful and failed compaign have a complementary relation .
    
    3. Recommendation for additional tables or graphs 
    
